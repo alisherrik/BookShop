@@ -7,7 +7,7 @@ namespace bookshop
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
-
+            Database.EnsureCreated();
         }
         public DbSet<Book> Books { get; set; }
         public DbSet<Category> Categories { get; set; }

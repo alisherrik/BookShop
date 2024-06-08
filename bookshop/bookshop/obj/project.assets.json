@@ -4593,11 +4593,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\bookshop\\bookshop\\bookshop.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\BookShop\\bookshop\\bookshop\\bookshop.csproj",
       "projectName": "bookshop",
-      "projectPath": "C:\\Users\\user\\Desktop\\bookshop\\bookshop\\bookshop.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\BookShop\\bookshop\\bookshop\\bookshop.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\bookshop\\bookshop\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\BookShop\\bookshop\\bookshop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
